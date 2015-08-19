@@ -23,8 +23,9 @@ void loop()
 {
  //sensor values
  sensor= analogRead(2);
-//the threshold values will vary based on your sensor, it is best to //calibrate them and compare to other data. This is a
-helpful study: //http://www.staceyk.org/airSensors/sensoroutput.php
+//the threshold values will vary based on your sensor, it is best to 
+//calibrate them and compare to other data. This is a
+//helpful study: //http://www.staceyk.org/airSensors/sensoroutput.php
 if (sensor < 100){ //turn LED green VOC
 
  digitalWrite(REDPin, LOW);
@@ -52,3 +53,4 @@ if (500< sensor< 530){ // yellow VOC
  digitalWrite(BLUEPin, HIGH);
  }
 }
+
