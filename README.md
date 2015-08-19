@@ -1,2 +1,5 @@
 # float_beijing
-float beijing, people powered open air quality data, a project by deren guler and xiaowei wang
+FLOAT Beijing
+
+People powered open air quality data
+A project by Deren Guler and Xiaowei Wang
