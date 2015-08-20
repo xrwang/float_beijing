@@ -20,12 +20,9 @@ __images-project-materials__ contains publicity materials such as flyers in Chin
 
 __workshop documentation__ is documentation of FLOAT workshops ranging from our initial workshop in 2012 to other places such as Taiwan in 2014.
 
-
-
-
-
-
 ====
+
+![FLOATimage](float_cover_img.jpg?raw=true)
 
 __Project Description:__
 
