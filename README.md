@@ -11,9 +11,10 @@ A project by Deren Guler and Xiaowei Wang
 
 Contents:
 
-__float_module__ is a folder that contains the .ino file for programming the ATTINY chip. You will need an arduino.
+__float_module__ is a folder that contains the .ino file for programming the ATTINY chip. You will need an arduino and an ATTINY chip. There are instructions for programming
+an ATTINY chip here: http://www.instructables.com/id/Program-an-ATtiny-with-Arduino/
 
-__float_tutorial__ contains the how to guide.
+__float_tutorial__ is a pdf guide with step by step instructions.
 
 __images-project-materials__ contains publicity materials such as flyers in Chinese. Please feel free to use and alter as needed.
 
