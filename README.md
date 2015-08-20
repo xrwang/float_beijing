@@ -28,4 +28,6 @@ __Project Description:__
 
 Through the playful act of kite flying FLOAT_Beijing has empowered hundreds of citizens to take action and protest current air quality standards, leading to people-driven improved policies for healthier lives. FLOAT is a tool to collect air quality data and circumvent state controlled channels of information. At community workshops participants learn about the health hazards of air pollutants and their detection through DIY sensors, which they learn to build and attach to kites. FLOAT modules are designed to be transparent and reconfigured by users. Residents challenge the invisibility of official data by flying their air quality sensing kites in highly visible public spaces. Kites have a strong cultural history in China which draws in diverse participants connecting them to new technologies. Participants are empowered by the ability to sense air quality. More importantly, through FLOAT_Beijing, citizens become active agents in monitoring, and eventually transforming their own environments.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/floatbeijing.map-alyaq0xl/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiZmxvYXRiZWlqaW5nIiwiYSI6ImloUEE0SHcifQ.nthI_BVVeBsrxqMcirojAA'></iframe>
+Take a look at one of our maps here, using data from August 12 2015!
+
+https://a.tiles.mapbox.com/v4/floatbeijing.map-alyaq0xl/page.html?access_token=pk.eyJ1IjoiZmxvYXRiZWlqaW5nIiwiYSI6ImloUEE0SHcifQ.nthI_BVVeBsrxqMcirojAA#13/39.9139/116.4078
